@@ -1,4 +1,5 @@
 Student Performance Prediction
+
 📌 Project Overview
 
 Student Performance Prediction is a Machine Learning project that predicts a student's academic performance based on different academic, lifestyle, and background factors.
@@ -9,6 +10,7 @@ The project uses Logistic Regression to classify student performance from the pr
 
 The main objective of this project is to use Machine Learning to predict student academic performance and understand how different factors such as study hours, attendance, previous scores, sleep, assignments, extracurricular activities, internet access, and parental education can be associated with academic outcomes.
 
+
 ✨ Features
 Predicts student academic performance
 Takes student information as input
@@ -16,6 +18,7 @@ Uses a trained Machine Learning model
 Handles categorical features using Label Encoding
 Provides predictions through a Python script
 Stores the trained model for future predictions
+
 📊 Input Features
 
 The prediction system uses the following features:
@@ -29,6 +32,7 @@ Assignment Score	Assignment performance score
 Extracurricular Hours	Time spent on extracurricular activities
 Internet Access	Whether the student has internet access
 Parental Education	Educational background of the parents
+
 🤖 Machine Learning Model
 
 The project uses:
@@ -45,6 +49,7 @@ Scikit-learn
 Joblib
 Jupyter Notebook
 Git & GitHub
+
 📁 Project Structure
 student-performance-prediction/
 │
@@ -67,6 +72,7 @@ student-performance-prediction/
 ├── predict-student.py
 ├── README.md
 └── requirements.txt
+
 ▶️ How to Run the Project
 1. Open the project in VS Code
 
@@ -117,6 +123,7 @@ Parental education: Graduate
 Example output:
 
 Predicted Performance: High
+
 📈 Future Improvements
 
 The project can be further improved by:
